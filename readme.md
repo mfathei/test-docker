@@ -13,8 +13,9 @@ steps to build and run :
 `chmod -R 777 . `
 `cp -R test-symfony/* ./`
 `rm -R test-symfony`
+</pre>
+
 open http://127.0.0.1:8989/
 
 u can connect to mysql db on docker using workbench:
 see Screenshot_2018-10-30_12-47-34.png
-</pre>
